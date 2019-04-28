@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update> 
         <version>1.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/TestApp.exe</url> 
+        <url>https://raw.githubusercontent.com/Exblosis/TUIA/master/bin/TUIA.exe</url> 
         <filePath>.\TUIA.exe</filePath>
         <md5>1E1E4114D83D8BAD0EC636EF2D15A213</md5>
         <description></description> 
