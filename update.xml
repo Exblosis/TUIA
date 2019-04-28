@@ -1,11 +1,11 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.0.0</version> 
+        <version>3.0.0.3</version> 
         <url>https://raw.githubusercontent.com/Exblosis/TUIA/master/bin/TUIA.exe</url> 
         <filePath>.\TUIA.exe</filePath>
-        <md5>DA5C853705EA90D29AD49CB491646341</md5>
-        <description></description> 
+        <md5>77E1B1168F04A1CB10EA44E829C36C9C</md5>
+        <description>update function</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
