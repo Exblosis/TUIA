@@ -5,7 +5,7 @@
         <url>https://raw.githubusercontent.com/Exblosis/TUIA/master/bin/TUIA.exe</url> 
         <filePath>.\TUIA.exe</filePath>
         <md5>d8830e6d163f4d83227da6c2ea2fed82</md5>
-        <description>update function</description> 
+        <description>bugfix</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
