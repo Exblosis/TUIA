@@ -5,7 +5,7 @@
         <url>https://raw.githubusercontent.com/Exblosis/TUIA/master/bin/TUIA.exe</url> 
         <filePath>.\TUIA.exe</filePath>
         <md5>e6bcc8334ee17d0279cd095c4d522430</md5>
-        <description>multinote with uppercase and lowercase letters "<sDh>"</description> 
+        <description>multinote with uppercase and lowercase letters</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
