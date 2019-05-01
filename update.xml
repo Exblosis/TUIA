@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>3.0.2.0</version> 
+        <version>3.0.3.0</version> 
         <url>https://raw.githubusercontent.com/Exblosis/TUIA/master/bin/TUIA.exe</url> 
         <filePath>.\TUIA.exe</filePath>
-        <md5>e6bcc8334ee17d0279cd095c4d522430</md5>
+        <md5>91143e5d4fdffca7b6d081b7c4c8ff9f</md5>
         <description>multinote with uppercase and lowercase letters</description> 
         <launchArgs></launchArgs> 
     </update>
